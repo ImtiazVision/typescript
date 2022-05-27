@@ -1,0 +1,1 @@
+// Typescript is a typed superset of javascript.
