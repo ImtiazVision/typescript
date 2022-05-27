@@ -1,1 +1,1 @@
-// Typescript is a typed superset of javascript.
+// Typescript is a typed superset of javascript. It adds helpful and productive features to javascript without changing the syntax. It is built on top of javascript and provides a lot of features that javascript does not. It is built for large scale applications but is also used in small scale applications.
